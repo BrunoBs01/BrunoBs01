@@ -6,7 +6,7 @@
 - 👨‍💻 Conhecimento em Java, HTML, C, MySQL e PHP
 - 🔍 Em busca de estágio para aplicar e desenvolver habilidades
 - 🚀 Apaixonado por tecnologia e aprendizado constante
-- 📊 Interesse em Open Finance, desenvolvimento e análise de dados
+- 📊 Interesse em desenvolvimento e análise de dados
 
 
 
