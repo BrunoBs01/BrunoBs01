@@ -75,7 +75,7 @@
 />
 <img 
     align="left" 
-    alt="Git" 
+    alt="Java" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
