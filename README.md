@@ -4,7 +4,6 @@
 
 - 🎓 Estudante de Engenharia de Software (3º período)
 - 👨‍💻 Conhecimento em Java, HTML, C, MySQL e PHP
-- 🔍 Em busca de estágio para aplicar e desenvolver habilidades
 - 🚀 Apaixonado por tecnologia e aprendizado constante
 - 📊 Interesse em desenvolvimento e análise de dados
 
